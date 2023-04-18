@@ -7,8 +7,8 @@ Python3 Template
 - Python3 Template -
 
 See also:
-* `The first link <https://>`_
-* `The second link <https://>`_
+* `The first link <https://>`_  
+* `The second link <https://>`_  
 
 Licensing
 =========
