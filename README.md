@@ -21,7 +21,7 @@ python3 -m venv venv
 source venv/Scripts/activate
 ```
 
-4. Change into directory location of 'python3-template'. Then, run:
+4. Change into directory location of 'python3_template'. Then, run:
 ```bash
 pip install --trusted-host pypi.org setuptools==40.8.0
 ```
