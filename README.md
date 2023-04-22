@@ -1,6 +1,8 @@
 # python3-template
 python3-template
 
+Status: ![Main](https://github.com/wes-o/python3-template/actions/workflows/manual.yml/badge.svg?branch=main)
+
 ## Commands to get started
 
 1. Clone this `.git` repository to local machine: 
