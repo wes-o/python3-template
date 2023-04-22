@@ -19,10 +19,10 @@ setup(
     author='Wes Oler',
     author_email='wes-o@github',
     url='https://github.com/wes-o/python3-template',
-    license="Mozilla 2.0",
+    license="MPL 2.0",
     install_requires=REQUIREMENTS,
-    keywords=['template', 'setuptools'],
-    packages=['python3-template'],
+    keywords=['template', 'setuptools', 'wheel'],
+    packages=['python3_template'],
     classifiers=[
         'Development Status :: 3 - Beta',
 
